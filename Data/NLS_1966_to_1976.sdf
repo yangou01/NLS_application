@@ -1,0 +1,35 @@
+
+
+Reference
+Number     Year  Variable Description                                                Question Name  
+------------------------------------------------------------------------------------------------------
+R00001.00  1966  IDENTIFICATION CODE, 66                                             R0000100       
+R00022.00  1966  AGE, 66                                                             R0002200       
+R00023.00  1966  RACE, 66                                                            R0002300       
+R00024.51  1966  REGION OF RESIDENCE IN 66 (REVISED)                                 R0002451       
+R00024.55  1966  CURRENT RESIDENCE IN SMSA, 66? (REVISED)                            R0002455       
+R00038.00  1966  PRESENCE OF ACCREDITED 2 YEAR COLLEGE - LABOR MARKET, 66 RESIDENCE  R0003800       
+R00040.00  1966  PRESENCE OF ACCREDITED 4 YEAR COLLEGE - LABOR MARKET, 66 RESIDENCE  R0004000       
+R00362.00  1966  INCOME FROM WAGES & SALARY IN PAST YEAR, 66 (ACTUAL)                R0036200       
+R00581.00  1966  HIGHEST GRADE COMPLETED AS OF 66 (REVISED)                          R0058100       
+R00619.00  1966  KNOWLEDGE OF WORLD OF WORK - TOTAL SCORE, 66                        R0061900       
+R00631.00  1966  HIGHEST GRADE COMPLETED BY FATHER, 66                               R0063100       
+R00633.00  1966  HIGHEST GRADE COMPLETED BY MOTHER, 66                               R0063300       
+R00859.00  1967  INCOME FROM WAGES & SALARY IN PAST YEAR, 67                         R0085900       
+R01096.00  1967  HIGHEST GRADE COMPLETED AS OF 67 (REVISED)                          R0109600       
+R01406.00  1968  INCOME FROM WAGES & SALARY IN PAST YEAR, 68                         R0140600       
+R01638.00  1968  HIGHEST GRADE COMPLETED AS OF 68 (REVISED)                          R0163800       
+R01711.00  1968  IQ SCORE, 68                                                        R0171100       
+R01712.00  1968  IQ TEST NAME, 68                                                    R0171200       
+R01970.00  1969  INCOME FROM WAGES & SALARY IN PAST YEAR, 69                         R0197000       
+R02208.00  1969  HIGHEST GRADE COMPLETED AS OF 69 (REVISED)                          R0220800       
+R02790.00  1970  INCOME FROM WAGES & SALARY IN PAST YEAR, 70                         R0279000       
+R02962.00  1970  HIGHEST GRADE COMPLETED AS OF 70 (REVISED)                          R0296200       
+R03655.00  1971  INCOME FROM WAGES & SALARY IN PAST YEAR, 71                         R0365500       
+R03832.00  1971  HIGHEST GRADE COMPLETED AS OF 71 (REVISED)                          R0383200       
+R04080.00  1973  INCOME FROM WAGES & SALARY IN PAST YEAR, 73                         R0408000       
+R04100.00  1973  HIGHEST GRADE COMPLETED AS OF 73 (REVISED)                          R0410000       
+R04309.00  1975  INCOME FROM WAGES & SALARY IN PAST YEAR, 75                         R0430900       
+R04341.00  1975  HIGHEST GRADE COMPLETED AS OF 75 (REVISED)                          R0434100       
+R05303.00  1976  INCOME FROM WAGES & SALARY IN PAST YEAR, 76                         R0530300       
+R05439.40  1976  HIGHEST GRADE COMPLETED AS OF 76 (REVISED)                          R0543940       
