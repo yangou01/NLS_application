@@ -1,6 +1,6 @@
 # NLS_application
 
-Data National Longitudinal Survey of Young Men can be downloaded at: https://www.nlsinfo.org/investigator/pages/login?p=timeout
+Data National Longitudinal Survey of Young Men can be downloaded at: https://www.nlsinfo.org/investigator/pages/login
 
 Data: 
   1. NLS_1966_to_1976.csv
